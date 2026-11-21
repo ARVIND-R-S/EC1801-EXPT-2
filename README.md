@@ -1,7 +1,3 @@
-<img width="1920" height="1080" alt="digital exp2" src="https://github.com/user-attachments/assets/b0c6ab42-8f42-4b44-ae60-b9ae0754c7d8" />
-<img width="1920" height="1080" alt="digital exp2" src="https://github.com/user-attachments/assets/8788cd40-53d4-43a9-aef7-80ff62eb430c" />
-<img width="1920" height="1080" alt="digital exp2" src="https://github.com/user-attachments/assets/e330993c-ed9d-466b-b482-e4ec3e1fa81c" />
-<img width="1920" height="1080" alt="digital exp2" src="https://github.com/user-attachments/assets/fd1cda45-2e21-4953-9ed7-989b10a25b9c" />
 # EXPT 2 - Verification of Logic Gates
 ### SIMULATION AND VERIFICATION OF AND, OR, AND NOT GATES
 ## Aim
